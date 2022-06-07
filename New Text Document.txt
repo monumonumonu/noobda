@@ -1,0 +1,3 @@
+ip MONUGAMING123.aternos.me
+port 40372
+name noobda
